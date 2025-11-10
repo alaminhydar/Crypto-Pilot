@@ -131,6 +131,8 @@ Exchange Notes
 - API_SECRET=your_secret_key
 - TESTNET=true
 
+## Open docs/crypto-pilot-guide.pdf for full expalantion and guide! the PDF provides a full walkthrough. 
+
 ## Recommended Beginner Workflow
 
 1. Start with Paper Trading to learn risk-free
