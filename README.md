@@ -2,6 +2,8 @@
 # 🚀 Crypto Pilot - Your Beginner Crypto Trading Bot
 
 ![Crypto Pilot Banner](./crypto-pilot.png) 
+
+
 *Your personal co-pilot for learning crypto trading strategies and backtesting in Python.*
 
 ---
@@ -74,7 +76,7 @@ Imagine Crypto Pilot as your **flight co-pilot**:
 ### 1️. Clone the repo
 1. Open your terminal or command prompt 
 2. Run:
-```bash
+
 git clone https://github.com/YourUsername/crypto-pilot.git
 cd crypto-pilot
 3. Run pip install -r requirements.txt in the project folder to install dependencies
