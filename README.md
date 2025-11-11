@@ -75,11 +75,9 @@ Imagine Crypto Pilot as your **flight co-pilot**:
 
 ### 1️. Clone the repo
 1. Open your terminal or command prompt 
-2. Run:
-
-git clone https://github.com/YourUsername/crypto-pilot.git
-cd crypto-pilot
-3. Run pip install -r requirements.txt in the project folder to install dependencies
+2. Run: git clone https://github.com/crypto-pilot.git
+3. cd crypto-pilot
+4. Run pip install -r requirements.txt in the project folder to install dependencies
 
 ### 🧰 Beginner Setup Guide (Integrated Instructions)
 ## Telegram Alerts Setup
